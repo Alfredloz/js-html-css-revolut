@@ -36,4 +36,5 @@ sectionAppear($('#abbonamenti'), planCost);
 sectionAppear($('#info'), information);
 sectionAppear($('#help'), helpSection);
 
-
+//sottomenù che rimangono
+sectionAppear(funzioni, funzioni);

@@ -12,6 +12,12 @@
 header {
     position: relative;
 }
+.txt_black{
+    color: black;
+}
+.txt_white{
+    color: white;
+}
 /* /utility class */
 /* navbar */
 section.navbar {
@@ -20,6 +26,7 @@ section.navbar {
 .navbar a {
     color: rgb(177, 169, 169);
 }
+
 .navbar a:hover {
     text-decoration: none;
     color: black;
@@ -63,4 +70,33 @@ header li {
     position: absolute;
     left: 95rem;
     box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
+}
+#access{
+    padding: 10px 20px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+#access a {
+    color: black;
+}
+#access:hover {
+    background-color: rgb(190, 186, 186);
+    cursor: pointer;
+}
+#app_down {
+    margin-left: 1rem;
+    padding: 10px 20px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: black;
+}
+#app_down:hover {
+    background-color: rgb(56, 55, 55);
+    cursor: pointer;
+}
+#app_down a {
+    color: white;
 }

@@ -43,3 +43,24 @@ header li {
     left: 40rem;
     box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
 }
+.plan_cost {
+    border-radius: 5px;
+    width: 20rem;
+    position: absolute;
+    left: 72rem;
+    box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
+}
+.information {
+    border-radius: 5px;
+    width: 20rem;
+    position: absolute;
+    left: 85rem;
+    box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
+}
+.help_section{
+    border-radius: 5px;
+    width: 20rem;
+    position: absolute;
+    left: 95rem;
+    box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
+}

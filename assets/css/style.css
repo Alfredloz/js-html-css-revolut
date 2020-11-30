@@ -1,0 +1,45 @@
+/* utility class */
+.d_flex{
+    display: flex;
+}
+.pding {
+    padding: 2rem;
+}
+.dsp {
+    display: none;
+}
+.hide_class
+header {
+    position: relative;
+}
+/* /utility class */
+/* navbar */
+section.navbar {
+    justify-content: space-between;
+}
+.navbar a {
+    color: rgb(177, 169, 169);
+}
+.navbar a:hover {
+    text-decoration: none;
+    color: black;
+}
+/* /navbar */
+/* left bar */
+img.logo {
+    width: 5rem;
+    height: auto;
+}
+/* /left bar */
+/* navbar link content */
+header li {
+    list-style-type: none;
+    line-height: 4rem;
+}
+.funzioni {
+    border-radius: 5px;
+    width: 70rem;
+    position: absolute;
+    left: 40rem;
+    box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
+}

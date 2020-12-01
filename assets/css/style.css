@@ -8,7 +8,6 @@
 .dsp {
     display: none;
 }
-.hide_class
 header {
     position: relative;
 }
@@ -47,28 +46,28 @@ header li {
     border-radius: 5px;
     width: 70rem;
     position: absolute;
-    left: 40rem;
+    left: 35%;
     box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
 }
 .plan_cost {
     border-radius: 5px;
     width: 20rem;
     position: absolute;
-    left: 72rem;
+    left: 50%;
     box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
 }
 .information {
     border-radius: 5px;
     width: 20rem;
     position: absolute;
-    left: 85rem;
+    left: 60%;
     box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
 }
 .help_section{
     border-radius: 5px;
     width: 20rem;
     position: absolute;
-    left: 95rem;
+    left: 65%;
     box-shadow: 1px 1px 5px 5px rgba(128, 128, 128, 0.322);
 }
 #access{
@@ -100,3 +99,5 @@ header li {
 #app_down a {
     color: white;
 }
+
+/* per non far andar a capo nei sotto menù una voce, width : max-content alla Ul */
